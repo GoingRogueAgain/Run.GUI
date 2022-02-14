@@ -1,4 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GoingRogueAgain/Run.GUI/main/Ban%20People%20here",true))()
+
 -- init
 local player = game.Players.LocalPlayer
 local mouse = player:GetMouse()
